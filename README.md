@@ -22,12 +22,12 @@ Find the details of the assignments in the respective folders (maven modules) in
     * Analyze the code and optimize the usage of comments as discussed in the training.
 * **DRY**
     * Analyze the code and resolve violations of DRY rule.
-* **Complex-task**
-    * This task will have various violations across the topics discussed in the training, you need to identify and correct them.
 * **Functions**
     * Analyze the code and make changes to improve the readability and maintainability by extracting and modifying functions.
     * NOTE: All changes can be done without creating new functional classes (Exception class is not a functional class of course). There are simple ways of completing tasks. Find them.
     * For Task 3: This task is NOT about side effects. There is considered that it's ok to have side effect for function "login", but there are other violations of clean code principles. Please find them and fix.
+* **Complex-task (optional)**
+  * This task will have various violations across the topics discussed in the training, you need to identify and correct them.
 
 
 ### Solutions
